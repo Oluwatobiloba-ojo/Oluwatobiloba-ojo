@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwatobiloba-ojo
 - 👀 I’m interested in becoming software engineer
-- 🌱 I’m currently learning java, python, javascrip for now
+- 🌱 I’m currently learning java, python, javascript for now
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ ojot630@gmail.com
 - 😄 Pronouns: ...
