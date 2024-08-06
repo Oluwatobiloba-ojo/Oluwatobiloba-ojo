@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Oluwatobiloba-ojo
+Hi there 👋
+
+- I’m @Oluwatobiloba-ojo
 - 👀 I’m interested in becoming software engineer
 - 💞️ I’m looking to collaborate on any open source project...
 - 📫 How to reach me @ ojot630@gmail.com
